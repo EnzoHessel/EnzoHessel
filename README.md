@@ -21,8 +21,3 @@
 
 Atualmente estou estudando as linguagens de programação Vue.js, React, Angular, etc. Focando em aprender seus conceitos fundamentais.
 
-## Ultimos Videos: 
-    -
-    -
-    -
-
