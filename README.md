@@ -19,6 +19,3 @@
     <img align="center" alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 </div>
 
-
-Atualmente estou estudando as linguagens de programação Vue.js, React, Angular, etc. Focando em aprender seus conceitos fundamentais.
-
