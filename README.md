@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,50:1f2a44,100:7c3aed&text=ENZO%20HESSEL&fontColor=ffffff&fontSize=70&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20C%23%20.NET%20%7C%20React%20%7C%20Cloud%20%26%20DevOps&descAlignY=62&descSize=18&animation=fadeIn"/>
+<img width="100%" src="assets/banner.png" alt="Enzo Hessel - Full Stack Developer"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&color=A78BFA&size=24&center=true&vCenter=true&width=700&lines=Hi!+I'm+Enzo+Hessel+%F0%9F%91%8B;Full+Stack+Developer;C%23+.NET+%26+React.js;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
@@ -108,4 +108,3 @@ const enzo = {
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7c3aed,50:1f2a44,100:0d1117&section=footer"/>
