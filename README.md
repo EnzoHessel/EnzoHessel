@@ -100,11 +100,11 @@ const enzo = {
 
 </div>
 
-## 🏆 GitHub Trophies
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=EnzoHessel&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4"/>
+<img src="https://streak-stats.demolab.com/?user=EnzoHessel&theme=github-dark-blue&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" width="100%"/>
 
 </div>
 
