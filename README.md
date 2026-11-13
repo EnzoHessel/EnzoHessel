@@ -52,49 +52,6 @@ const enzo = {
 </tr>
 </table>
 
-## 🛡️ Architecture & AppSec
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏗️ Software Architecture
-
-- Clean Architecture, Hexagonal & **DDD**
-- Microservices, modular monoliths & event-driven systems
-- System Design, scalability & resilience
-- Architecture decision records (ADRs) & trade-off analysis
-- Cloud-native architecture on **AWS**
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 Application Security
-
-- **OWASP Top 10** & **OWASP API Security Top 10**
-- **OWASP ASVS** as a security requirements baseline
-- Threat Modeling (**STRIDE**) from the design phase
-- Secure code review, SAST / DAST / SCA in CI/CD
-- AuthN & AuthZ: OAuth2, OpenID Connect, JWT
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=zap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white)
-![Semgrep](https://img.shields.io/badge/Semgrep-1B2A4A?style=flat-square&logo=semgrep&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2_%2F_OIDC-EB5424?style=flat-square&logo=auth0&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-</div>
-
 ## 📫 Connect With Me
 
 <div align="center">
