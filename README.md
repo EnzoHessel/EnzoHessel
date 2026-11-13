@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="assets/banner.png" alt="Enzo Hessel - Full Stack Developer"/>
+<img width="100%" src="assets/banner.png" alt="Enzo Hessel - Software Architecture & Application Security"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&color=A78BFA&size=24&center=true&vCenter=true&width=700&lines=Hi!+I'm+Enzo+Hessel+%F0%9F%91%8B;Full+Stack+Developer;C%23+.NET+%26+React.js;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&color=A78BFA&size=24&center=true&vCenter=true&width=700&lines=Hi!+I'm+Enzo+Hessel+%F0%9F%91%8B;Software+Architecture+%F0%9F%8F%97%EF%B8%8F;Application+Security+%7C+OWASP+%F0%9F%9B%A1%EF%B8%8F;Secure+by+design.)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,34 +14,34 @@
 
 ```javascript
 const enzo = {
-  role: "Full Stack Developer",
+  role: "Full Stack Developer → Software Architecture & AppSec",
   location: "São Paulo, Brazil 🇧🇷",
-  age: 21,
   education: "MBA in Software Engineering",
 
-  building: [
-    "REST APIs & Web Applications",
-    "Cloud-ready, scalable systems",
+  focus: [
+    "Software Architecture & System Design",
+    "Application Security (AppSec)",
+    "Secure SDLC / DevSecOps",
   ],
 
-  learning: [
-    "AWS & Cloud Architecture",
-    "System Design",
-    "Java & Spring",
-    "Infrastructure as Code",
-  ],
+  security: {
+    standards: ["OWASP Top 10", "OWASP ASVS", "API Security Top 10"],
+    practices: ["Threat Modeling (STRIDE)", "Secure Code Review",
+                "SAST / DAST", "AuthN & AuthZ (OAuth2, OIDC, JWT)"],
+  },
+
+  architecture: ["Clean Architecture", "DDD", "Microservices",
+                 "Event-Driven", "Cloud-Native (AWS)"],
 
   tech: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind"],
     backend: ["C#", ".NET", "ASP.NET Core", "Node.js"],
-    database: ["SQL Server", "PostgreSQL", "MySQL"],
-    devops: ["AWS", "Docker", "GitHub Actions"],
+    frontend: ["React", "Next.js", "TypeScript"],
+    infra: ["AWS", "Docker", "GitHub Actions", "Terraform"],
   },
 };
 ```
 
-> *"Always learning, building and improving."*
-> — Enzo Hessel
+> *"Security is not a feature, it's an architectural decision."*
 
 </td>
 <td width="45%" align="center" valign="middle">
@@ -51,6 +51,49 @@ const enzo = {
 </td>
 </tr>
 </table>
+
+## 🛡️ Architecture & AppSec
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏗️ Software Architecture
+
+- Clean Architecture, Hexagonal & **DDD**
+- Microservices, modular monoliths & event-driven systems
+- System Design, scalability & resilience
+- Architecture decision records (ADRs) & trade-off analysis
+- Cloud-native architecture on **AWS**
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 Application Security
+
+- **OWASP Top 10** & **OWASP API Security Top 10**
+- **OWASP ASVS** as a security requirements baseline
+- Threat Modeling (**STRIDE**) from the design phase
+- Secure code review, SAST / DAST / SCA in CI/CD
+- AuthN & AuthZ: OAuth2, OpenID Connect, JWT
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=zap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white)
+![Semgrep](https://img.shields.io/badge/Semgrep-1B2A4A?style=flat-square&logo=semgrep&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2_%2F_OIDC-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+</div>
 
 ## 📫 Connect With Me
 
@@ -80,7 +123,8 @@ const enzo = {
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-333333?style=flat-square)
 ![DDD](https://img.shields.io/badge/DDD-333333?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-333333?style=flat-square)
+![Event--Driven](https://img.shields.io/badge/Event--Driven-333333?style=flat-square)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 
